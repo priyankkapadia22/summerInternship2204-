@@ -9,7 +9,7 @@ Welcome to my GitHub repository for the Summer Internship! This project showcase
 <u1>
 <li>Introduction of company</li>
 <li>PHP need in real life</li> 
-<li>Basics of PH</li> 
+<li>Basics of PHP</li> 
 <li>Exploring Data Types</li>
 </u1>
 
